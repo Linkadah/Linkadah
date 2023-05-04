@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Linkadah S2
-
-
-<!---
-Linkadah/Linkadah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌷 Oii, Eu sou a Carla :)
+- 🥀 Meu github é voltado por enquanto para meus estudos na escola
+- 🪻 Meu instagram🩷@_krlachristinacomh
